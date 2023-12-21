@@ -44,10 +44,10 @@
             }
 
             .operator {
-                background-color: #f5923e;
+                background-color: #10d0de;
                 color: white;
             }
 
             .operator:hover {
-                background-color: #e08336;
+                background-color: #10d0de;
             }
